@@ -1,3 +1,5 @@
+Actually i found the configs, this is no longer necessary and as such, will be archived.
+
 This is a fork of AE2 i made for trying to solve issues for the [Omnifactory](https://www.curseforge.com/minecraft/modpacks/omnifactory) modpack.
 
 See [AE2-Omnifactory](https://github.com/PrototypeTrousers/Applied-Energistics-2/tree/AE2-Omnifactory) branch for commits and [Releases](https://github.com/PrototypeTrousers/Applied-Energistics-2/releases) for the compiled jars.
